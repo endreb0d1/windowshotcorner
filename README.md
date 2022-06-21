@@ -22,4 +22,4 @@ Run the script, or pack it in an .exe with pyinstaller
 pyinstaller --noconsole --onefile --add-data "static;static" whc.py
 ```
 
-uncomment the 3 lines marked in whc.py before building.
+comment out the 3 lines marked in whc.py before building.
