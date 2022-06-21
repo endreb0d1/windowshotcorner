@@ -1,9 +1,10 @@
 # Windows Hot Corner
 
-This app mimics the macOS hot corner function.
+This app mimics the macOS hot corner function.\n
 By default it mimics pressing "alt, ctrl, tab" when the cursor is moved
 to the top left corner of the screen, so the user doesn't need to click 
-on the icons in the taskbar, or press key combinations when switching windows.
+on the icons in the taskbar,\n
+or press key combinations when switching windows.
 
 ![whc](https://i.imgur.com/sDEkmYL.jpeg)
 
